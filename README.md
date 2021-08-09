@@ -1,6 +1,8 @@
 # Java-Code-Vault
 A repository for very basic Java Programs that I had practiced in my initials years of engineering degree. 
+
 Will be updating the repository regular as I gather more questions.
+
 ![java-eps-vector-logo](https://user-images.githubusercontent.com/69194538/128751270-3956993c-e997-4d43-8803-b97643c477e3.png)
 
 # What is JAVA
