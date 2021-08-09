@@ -16,7 +16,7 @@ JVM, JRE, and JDK three are all platform-dependent because the configuration of 
 
 Steps for setting the environment in Windows operation system are as follows: 
 
-### Step 1: Java8 JDK is available at Download Java 8. Click the second last link for Windows(32 bit) and the last link for Windows(64 bit) as highlighted below. 
+1. `Step 1`: Java8 JDK is available at Download Java 8. Click the second last link for Windows(32 bit) and the last link for Windows(64 bit) as highlighted below. 
 
 Step 2: After download, run the .exe file and follow the instructions to install Java on your machine. Once you installed Java on your machine, you have to set up the environment variable.
 
